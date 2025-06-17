@@ -100,4 +100,6 @@ const ProductCard = ({ product, viewMode = 'grid' }) => {
               ({product.numReviews || 0})
             </span>
           </div>
-          
+          </div>
+          </div>
+          </Link>);}
