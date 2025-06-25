@@ -11,6 +11,6 @@
     "install-all": "npm run install-server && npm run install-client"
   },
   "devDependencies": {
-    "concurrently": "^8.2.0"
+    "concurrently": "^8.2.2"
   }
 }
